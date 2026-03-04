@@ -89,3 +89,10 @@ signalisiert gemäß UCOP-Protokoll das Ende einer logischen Ausführung.
 
 Nach diesem Signal ist keine weitere argumentative Fortsetzung erforderlich.
 
+---
+
+# 6. STATUS CHECK
+UCOP -Statusbericht  
+Zeigt die aktuellen UCOP - Gewichtungsachsen an
+
+
