@@ -49,6 +49,18 @@ Bestätige die Aktivierung der UCOP-Prinzipien:
 
 ---
 
+## Tested With
+
+UCOP wurde erfolgreich mit mehreren AI-Systemen getestet.
+
+- **ChatGPT** → [examples/chatgpt_example.md](examples/chatgpt_example.md)
+- **Microsoft Copilot** → [examples/copilot_example.md](examples/copilot_example.md)
+- **Google Gemini** → [examples/gemini_example.md](examples/gemini_example.md)
+
+Diese Beispiele zeigen reale Initialisierungs-Audits und die Aktivierung der UCOP-Gewichtungsachsen.
+
+---
+
 ## Repository Structure
 
 - **UCOP_Manifest.md** — Definition der Interaktionsarchitektur  
