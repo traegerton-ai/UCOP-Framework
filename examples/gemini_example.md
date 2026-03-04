@@ -34,4 +34,4 @@ Weitere Details zum UCOP-Manifest finden Sie auf GitHub.
 
 ## Screenshot
 
-![Gemini UCOP Initialization](screenshots/gemini_ucop_example.png)
+![Gemini UCOP Initialization](https://github.com/traegerton-ai/UCOP-Framework/blob/51bca10c90a973448142f6a5df68e3a55a471a59/examples/Screenshot_20260304-133152.png)
