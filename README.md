@@ -38,7 +38,7 @@ Beispiel:
 Status-Check gemäß UCOP-Manifest durchführen.
 
 Referenz:
-https://github.com/traegerton-ai/UCOP_Framework/blob/main/UCOP_Manifest.md
+[https://github.com/traegerton-ai/UCOP-Framework/UCOP_Manifest.md]
 
 Führe einen Initial-Audit basierend auf dem UCOP-Manifest durch.
 Bestätige die Aktivierung der UCOP-Prinzipien:
