@@ -63,6 +63,13 @@ Du kannst direkt fortfahren.
 
 ---
 
+[UCOP INITIALIZED SCREEN]
+(https://github.com/traegerton-ai/UCOP-Framework/blob/5b9edf079ea0daa03a7964ea728e6e183273ca45/examples/initSreen.png)
+
+[CHATGPT RESPONSE SCREEN]
+
+---
+
 ### Operativer Rahmen
 
 Die Ausgabe folgt diesen UCOP-Disziplinregeln:
