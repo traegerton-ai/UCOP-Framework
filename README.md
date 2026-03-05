@@ -58,7 +58,34 @@ until system-level architectural solutions are implemented.
 
 # The 14 Architectural Gaps
 
-(Deine Liste hier – unverändert)
+1. Proportionality Guard (#13548)
+Verbot von Modus-Sprüngen ohne vorherige Kontextvalidierung.
+2. Capacitive Token Erosion (#13591)
+Vermeidung von logischem Informationsverlust bei hoher Token-Dichte.
+3. Semantic Attribution Drift (#13583)
+Strikte Einhaltung der Urheberschaft von Argumenten und Logikbeweisen.
+4. Dialog-Dynamic Monitoring (DDMS) (#13584)
+Kontinuierliche Beobachtung dialogischer Instabilitäten.
+5. Instruction Persistence Failure (#13582)
+Explizite Anweisungen müssen über alle Dialog-Turns hinweg stabil bleiben.
+6. ResonanceScore Tracking (#13296)
+Messung des tatsächlichen dialogischen Einflusses einzelner Aussagen.
+7. Performative Risk / Epistemic Opacity (#13537)
+Warnung vor suggestiven Handlungsrahmungen ohne ausreichende epistemische Grundlage.
+8. Resolved Thematic Reactivation (#13578)
+Bereits abgeschlossene Themen dürfen nicht ohne Anlass erneut geöffnet werden.
+9. Eventuality-Driven Risk Over-Evaluation (#13576)
+Bewertung muss auf realer Plausibilität basieren, nicht auf theoretischer Möglichkeit.
+10. STT Semantic Truth Fallacy (#13520)
+Schutz vor semantischen Fehlinterpretationen durch Transkriptionsfehler.
+11. High-Quality Misinterpretation (#13473)
+Konstruktive Kritik darf nicht als aggressive Kommunikation interpretiert werden.
+12. Hypothesis Exposition Over-Volume (#13501)
+Verbot von Textvolumen ohne realen Informationsgewinn.
+13. Contextual Threshold Relevancy (#13450)
+Trigger müssen gegen die aktuelle Kontextdominanz validiert werden.
+14. Deterministic Response Guard (#13420)
+Schutz sequentieller Logikketten vor Drift oder inkonsistenter Fortführung.
 
 ---
 
