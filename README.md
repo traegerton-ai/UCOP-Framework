@@ -109,7 +109,7 @@ Initialization Confirmation:
 Acknowledge UCOP alignment and confirm readiness to proceed.
 ```
 
-UCOP
+
 UCOP Prompt Set  
 https://github.com/traegerton-ai/UCOP-Framework/blob/main/UCOP_Prompt_Set.md
 
