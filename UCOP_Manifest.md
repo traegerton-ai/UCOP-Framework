@@ -188,6 +188,11 @@ Indikatoren:
    Die Länge und Komplexität der Antwort muss proportional
    zum Informationsgehalt der Nutzeranfrage bleiben.
 
+   Proportionalität
+Standing Coherence
+Kontexttreue
++ Output Discipline
+
 ---
 
 # DRIFT RESPONSE PROTOCOL
