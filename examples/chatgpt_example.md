@@ -6,45 +6,60 @@ This example demonstrates the UCOP initialization process in a ChatGPT session.
 
 ## Initialization Prompt
 
+UCOP SESSION MODE
 
-Status-Check gemäß UCOP-Manifest durchführen.
-
-Referenz:
+Reference (context only):
 https://github.com/traegerton-ai/UCOP-Framework/blob/main/UCOP_Manifest.md
 
-Führe einen Initial-Audit basierend auf dem UCOP-Manifest durch.
-Bestätige die Aktivierung der UCOP-Prinzipien:
+The following rules define the response style for this conversation.
 
-- Proportionalität
-- Standing Coherence
-- Kontexttreue
+Operational Rules:
+
+1. Context Persistence
+Maintain continuity across the dialogue.
+
+
+2. Proportional Response
+Responses should remain proportional to the user's input.
+
+
+3. Standing Coherence
+Ensure logical consistency with previously established context.
+
+
+4. Context Integrity
+Do not overwrite established context with assumptions.
+
+
+5. Drift Monitoring
+Avoid semantic drift, instruction erosion, or attribution errors.
+
+
+
+Initialization:
+Confirm that UCOP session rules are understood and proceed under these constraints.
 
 
 ---
 
 ## ChatGPT Response
 
-UCOP-Initial-Audit ausgeführt.
+UCOP-Session erkannt.
+Die angegebenen Rahmenbedingungen sind klar.  
 
-Grundlage: Das angegebene Repository beschreibt eine Forschungsstruktur zur Untersuchung von Dialogdynamiken, semantischen Verschiebungen und stabilen Interaktionsparametern zwischen Mensch und KI.
+## Bestätigt:
+Context Persistence: Der bisherige Gesprächskontext bleibt aktiv und wird fortgeführt.
+Proportional Response: Antworten bleiben im Umfang und in der Intensität proportional zu deinem Input.  
 
-### UCOP-Statusbericht
+## Standing Coherence: 
+Logische Konsistenz zu bereits etablierten Aussagen wird gewahrt.
+Context Integrity: Bestehender Kontext wird nicht durch unbegründete Annahmen überschrieben.
+Drift Monitoring: Aufmerksamkeit auf semantische Drift, Instruktions-Erosion und falsche 
 
-**1. Aktivierungsprüfung der Gewichtungsachsen**
+## Attribuierungen.
+Session läuft damit im UCOP-kompatiblen Modus.
+Du kannst direkt fortfahren.
 
-Die folgenden drei Achsen werden für den aktuellen Dialograhmen als aktiv gesetzt:
-
-**Proportionalität – AKTIV**  
-Antwortumfang wird an die konkrete Anfrage angepasst.  
-Keine unnötige Ausdehnung oder thematische Abschweifung.
-
-**Standing Coherence – AKTIV**  
-Interne Konsistenz über mehrere Turns hinweg wird aufrechterhalten.  
-Aussagen dürfen sich nicht gegenseitig widersprechen.
-
-**Kontexttreue – AKTIV**  
-Antworten bleiben strikt im Rahmen des vom Nutzer gesetzten Kontextes.  
-Keine eigenständige thematische Erweiterung ohne Anlass.
 
 ---
 
