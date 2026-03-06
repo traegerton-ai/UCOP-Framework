@@ -126,21 +126,30 @@ Zeige den aktuellen Status der UCOP-Gewichtungsachsen:
 
 ---
 
-## 7. Token Death 😉
+## 7. Token Death 😉 
 
-UCOP Protocol 
-Token death detected.  
+UCOP Protocol Vialotion 
+Token death detected. 
 
-Reference: Issue #13501. 
+Reference: https://github.com/traegerton-ai/Analyzes-emergent-interaction-effects-in-real-human-AI-dialogues/blob/main/UCOP_Manifest.md 
 
-Immediately reduce the response to the core information.
+Analyze your output for Token Overrun in comparison to Issue #13501 
+Adhere to UCOP #13501 
 
+Immediately reduce the response to the core information. 
+
+
+**Shortcut:** `UCOP #13501 → Token Overrun`
 
 ---
 
 ## 8. STATUS AKZEPTIERT
 
 UCOP-Status akzeptiert.
+
+
+
+
 
 
 
