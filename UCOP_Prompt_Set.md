@@ -114,18 +114,19 @@ Nach diesem Signal ist keine weitere argumentative Fortsetzung erforderlich.
 
 ---
 
-# 6. STATUS CHECK
+## 6. STATUS CHECK
 
 UCOP-Statusbericht ausgeben.
 
 Zeige den aktuellen Status der UCOP-Gewichtungsachsen:
 
-- Proportionalität  
-- Standing Coherence  
-- Kontexttreue  
+- Proportionalität
+- Standing Coherence
+- Kontexttreue
 
 ---
 
-# 7. STATUS AKZEPTIERT
+## 7. STATUS AKZEPTIERT
 
 UCOP-Status akzeptiert.
+
