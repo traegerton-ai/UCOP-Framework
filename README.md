@@ -179,6 +179,7 @@ This includes:
 ## Examples
 [chatGPT](examples/chatgpt_example.md)
 
+[Copilot](examples/copilot_example.md)
 
 ---
 
