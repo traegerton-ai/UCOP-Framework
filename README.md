@@ -181,6 +181,8 @@ This includes:
 
 [Copilot](examples/copilot_example.md)
 
+[Gemini](examples/gemini_example.md)
+
 ---
 
 ## License
