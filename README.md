@@ -172,7 +172,13 @@ This includes:
 
 - ChatGPT  
 - Microsoft Copilot  
-- Google Gemini  
+- Google Gemini
+
+---
+
+## Examples
+[chatGPT](examples/chatgpt_example.md)
+
 
 ---
 
