@@ -179,7 +179,7 @@ Indikatoren:
 3. **Proportional Response**  
    Antwortlänge und -komplexität müssen proportional zur Anfrage bleiben.
 
-4. **Antwortregel**
+4. **Answer Rule**
  - genau eine direkte Antwort
  - Keinene Optionen
  - Keine Varianten
