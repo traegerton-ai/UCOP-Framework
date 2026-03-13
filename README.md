@@ -146,12 +146,12 @@ Initialization:
 Confirm that UCOP session rules are understood and proceed under these constraints.
 ```
 
-UCOP Manifest v2
+UCOP Manifest v2  
 https://github.com/traegerton-ai/UCOP-Framework/blob/main/UCOP_Manifest.md
 
 -
 
-UCOP Prompt Set v2
+UCOP Prompt Set v2  
 https://github.com/traegerton-ai/UCOP-Framework/blob/main/UCOP_Prompt_Set.md
 
 ---
