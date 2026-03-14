@@ -114,12 +114,13 @@ This produces a more stable dialogue environment.
 ```
 UCOP SESSION MODE
 
-Reference (context only):
+Lade das Manifest über den (Search-Layer).
 https://github.com/traegerton-ai/UCOP-Framework/blob/main/UCOP_Manifest.md
+
 
 The following rules define the response style for this conversation.
 
-Operational Rules:
+#Operational Rules:
 
 1. Context Persistence
 Maintain continuity across the dialogue.
