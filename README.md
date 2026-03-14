@@ -114,7 +114,7 @@ This produces a more stable dialogue environment.
 ```
 UCOP SESSION MODE
 
-Lade das Manifest über den (Search-Layer).
+Lade das Manifest über den (Search-Layer)
 https://github.com/traegerton-ai/UCOP-Framework/blob/main/UCOP_Manifest.md
 
 
